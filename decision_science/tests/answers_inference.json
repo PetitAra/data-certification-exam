@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "\nMedian age has a positive effect on number of incidents\n\n",
+    "T_STAT": "\nIts t-statistics is equal to 1.820. It is calsulated by deviding its coefficient by a standard error\n",
+    "P_VALUE": "\nThe P vaule shows how large is a chance that the null-hypothesis is false and the feature has an effect \non dependent variable.P<=0,5 considered to be a point where we can say that a feature has an effect, \ntherefore, pvalue_median_age = 0.128 is not enought small to reject a null-hypothesis \n=> Median_age's effect is not significant (neither at 95% nor at 90% confidence level)\n",
+    "INCREASE": "\nEach increase in share of families with a married couple decreases the total number of incidents by 2115,\nholding all other regressors constant.\n",
+    "LIMITATIONS": "\n1. Very small number of obserations\n2. High number of features + possible collinearity\n"
+}
